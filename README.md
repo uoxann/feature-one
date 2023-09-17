@@ -1,4 +1,4 @@
-# feature-one
+# feature-one 'Way'
 feature
 
 this is description of this project
